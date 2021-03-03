@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- I am a student at The University of Electro-Communications.
+- I’m a student at The University of Electro-Communications.
+- I want to be Web Developer.
+- I’m interested in DevOps and Server-Side Engineerings.
 
 
 ### ⚡ Status
