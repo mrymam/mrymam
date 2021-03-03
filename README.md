@@ -1,11 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+###  🐱 About Me 
 - I’m a student at The University of Electro-Communications.
 - I want to be Web Developer.
 - I’m interested in DevOps and Server-Side Engineerings.
 
 
-### ⚡ Status
+### ⚡ Status 
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=onyanko-pon&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/onyanko-pon/)
