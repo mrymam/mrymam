@@ -8,7 +8,7 @@
 ### ⚡ Status 
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=mrymam&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mrymam/)
+[![mrymam's github stats](https://github-readme-stats.vercel.app/api?username=mrymam&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mrymam/)
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrymam&layout=compact&theme=tokyonight)](https://github.com/mrymam/)
