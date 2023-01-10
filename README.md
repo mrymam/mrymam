@@ -2,7 +2,7 @@
 
 ###  🐱 About Me 
 - I’m a student at The University of Electro-Communications.
-- I’m interested in DevOps and Server-Side Engineerings.
+- I’m interested in DevOps and SoftWare Design (DDD / Clean Architecture).
 
 
 ### ⚡ Status 
